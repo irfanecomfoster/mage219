@@ -18,6 +18,7 @@
  * See COPYING.txt for license details.
  */
 
+// Hello Testing Comments
 
 try {
     require __DIR__ . '/app/bootstrap.php';
