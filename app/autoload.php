@@ -8,6 +8,7 @@
 use Magento\Framework\Autoload\AutoloaderRegistry;
 use Magento\Framework\Autoload\ClassLoaderWrapper;
 
+
 /**
  * Shortcut constant for the root directory
  */
